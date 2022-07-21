@@ -1,4 +1,9 @@
 Texto de ejemplo
 
 hola hola 
+<<<<<<< HEAD
 master 2
+=======
+
+experimento1
+>>>>>>> a70ddd8 (Ex1)
