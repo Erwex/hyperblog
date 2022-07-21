@@ -6,4 +6,8 @@ master 2
 =======
 
 experimento1
+<<<<<<< HEAD
 >>>>>>> a70ddd8 (Ex1)
+=======
+experimento2
+>>>>>>> 63c8adf (Ex2)
